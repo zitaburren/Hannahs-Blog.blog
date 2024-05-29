@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
-image = "/img/default-author.jpg"
+image = "ac-avatar.png"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](images.jfif)
 
 ## Hannah Deiss
 
-mail@example.org
-
-Hobby Autorin und stolzes Teammitglied dieses Reportage-Projektes
+Hobby Autorin und stolzes Teammitglied dieses Reportage-Projektes :)
