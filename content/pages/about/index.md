@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Hannah Deiss
 
 mail@example.org
 
-Here should be some info about me...
+Hobby Autorin und stolzes Teammitglied dieses Reportage-Projektes
