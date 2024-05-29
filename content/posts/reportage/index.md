@@ -3,6 +3,7 @@ title = "Reportage"
 date = "2024-05-29"
 draft = false
 pinned = true
+tags = ["Tripity"]
 +++
 #  Eine Reise nach Tripity
 
